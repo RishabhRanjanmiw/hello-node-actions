@@ -20,5 +20,5 @@ jobs:
           node-version: '18'
 
       - name: Print Hello
-        run: echo "Hello from @RishabhRanjanmiw
+        run: echo "Hello from @RishabhRanjanmiw"
 
